@@ -82,6 +82,7 @@
 > 원인 2 : 대관 현황을 보기 불편했다.
 
 <p>[변경]</p>
+
 ![image](https://github.com/user-attachments/assets/8d921898-4652-40bd-a7ef-08b1fa9ff53b)
 
 <p>✅ 나의 대관 현황 페이지에서 대관 현황을 한눈에 파악할 수 있게 됐다.</p>
